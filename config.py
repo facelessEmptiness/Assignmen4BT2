@@ -1,7 +1,0 @@
-OPENAI_API_KEY = "some api"
-CRYPTO_PANIC_API_KEY = "some api"
-BINANCE_API_URL = "some site api"
-COINMARKETCAP_API_KEY = "some api"
-COINMARKETCAP_API_URL = "some api"
-REQUEST_TIMEOUT = 30
-CACHE_TTL = 300
